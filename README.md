@@ -1,2 +1,2 @@
-# This is pure HTML and CSS, since our professor doesn't want us to use any JavaScript — though we don't actually know his reasons.
+# This is pure HTML and CSS, since our professor doesn't want us to use any JavaScript — though we don't actually know his reasons, no offense.
 # This is a group project, but most of the code, file structure, and styles were made by me, so it's basically like I made it myself, no offense because it's actually my own choice too, but I still do give credits to my groupmates who did their best to help especially on providing images, stories, etc.
