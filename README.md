@@ -1,1 +1,2 @@
-# projects
+# This is a group project, but most of the code, file structure, and styles were made by me, so it's basically like I made it myself.
+# This is also pure HTML and CSS, since our professor doesn't want us to use any JavaScript — though we don't actually know his reasons.
